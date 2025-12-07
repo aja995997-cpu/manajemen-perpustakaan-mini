@@ -1,4 +1,4 @@
-# 📚 Sistem Manajemen Perpustakaan Mini v8.4
+# 📚 Sistem Manajemen Perpustakaan Mini
 
 Aplikasi ini merupakan sistem manajemen perpustakaan sederhana berbasis **Python** menggunakan **CustomTkinter** dan **SQLite**.  
 Dirancang untuk mempermudah pencatatan buku, anggota, serta riwayat peminjaman.
@@ -28,7 +28,7 @@ Dirancang untuk mempermudah pencatatan buku, anggota, serta riwayat peminjaman.
 
 ### 1️⃣ Menggunakan Python
 ```bash
-python perpustakaan.py
+python (file-python).py
 ````
 
 Pastikan sudah menginstall dependensi:
