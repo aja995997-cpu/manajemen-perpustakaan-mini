@@ -5,7 +5,7 @@ Dirancang untuk mempermudah pencatatan buku, anggota, serta riwayat peminjaman.
 
 ## ⚡ Fitur Utama
 - Manajemen Buku (Tambah, Edit, Hapus)
-- Manajemen Anggota (Tambah, Edit, Hapus)
+- Manajemen Anggota (Tambah, Edit)
 - Peminjaman & Pengembalian Buku
 - Riwayat Peminjaman dengan filter
 - Tampilan GUI modern menggunakan CustomTkinter
